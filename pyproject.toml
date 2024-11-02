@@ -1,3 +1,11 @@
+[project]
+name = "coreferee"
+version = "1.4.1"
+description = "Coreference resolution for English, French, German and Polish, optimised for limited training data and easily extensible for further languages"
+readme = "README.md"
+requires-python = ">=3.6,<3.12"
+license = { file = "LICENSE" }
+
 [build-system]
 requires = [
     "setuptools",
